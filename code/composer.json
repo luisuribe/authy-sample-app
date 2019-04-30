@@ -1,0 +1,5 @@
+{
+    "require": {
+        "authy/php": "3.1.0-rc1"
+    }
+}
